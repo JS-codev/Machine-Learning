@@ -17,5 +17,16 @@
     - `pip install tensorflow`
     - `pip install matplotlib`
 
+---
+
+#### Classic model build from scratch:
+- [Heart Disease detector](https://github.com/JS-codev/Machine-Learning/blob/main/Logistic%20Regression/Heart%20Disease%20Predictor/Heart%20Disease%20Predictor.ipynb)
+- [Profit resaurant predictor](https://github.com/JS-codev/Machine-Learning/blob/main/Linear%20Regression/Profit%20Restaurant%20Predictor%20(Classic%20-%20gradient%20descent)/Profit%20Restaurant%20Predictor.ipynb)
+
+---
+
+#### TensorFlow:
+- [Digit Image Classifier](https://github.com/JS-codev/Machine-Learning/blob/main/Deep%20Neural%20Network/Digit%20Classifier%20(TensorFlow).ipynb)
+
 
     
