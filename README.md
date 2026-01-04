@@ -16,6 +16,7 @@
     - `pip install pandas`
     - `pip install tensorflow`
     - `pip install matplotlib`
+    - `pip install pytouch`
 
 ---
 
@@ -28,5 +29,8 @@
 #### TensorFlow:
 - [Digit Image Classifier](https://github.com/JS-codev/Machine-Learning/blob/main/Deep%20Neural%20Network%20(DNN)/Digit%20Image%20Classifier/Digit%20Classifier%20(TensorFlow).ipynb)
 
+---
 
+#### Pytouch:
+- 
     
