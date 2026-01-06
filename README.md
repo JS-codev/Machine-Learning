@@ -19,7 +19,7 @@
     - `pip install pytouch`
 
 ---
-## Some examples of these projects:
+### Some examples of these projects:
 
 #### Classic model build from scratch:
 - [Heart Disease detector](https://github.com/JS-codev/Machine-Learning/blob/main/Logistic%20Regression/Heart%20Disease%20Predictor/Heart%20Disease%20Predictor.ipynb)
